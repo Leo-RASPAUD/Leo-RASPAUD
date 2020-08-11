@@ -3,7 +3,7 @@
 ### 📣📣 I'm currently open to job opportunities!
 ## Feel free to contact me on the following networks: 
 - 📧  [Send me an email](mailto:leo.raspaud@gmail.com?subject=[GitHub]%20Job%20opportunity)
-- 💼  [Contact me on Linkedin](linkedin)
+- 💼  [Contact me on Linkedin](https://www.linkedin.com/in/leo-raspaud/)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="54px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
