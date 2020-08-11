@@ -36,13 +36,6 @@
 --- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-RASPAUD&repo=invited&show_owner=true)](https://github.com/Leo-RASPAUD/invited)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-RASPAUD&repo=musicaroundme&show_owner=true)](https://github.com/Leo-RASPAUD/musicaroundme)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-RASPAUD&repo=leoraspaud&show_owner=true)](https://github.com/Leo-RASPAUD/leoraspaud)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Leo-RASPAUD&repo=whatsforlunch&show_owner=true)](https://github.com/Leo-RASPAUD/whatsforlunch)
-
 [linkedin]: https://www.linkedin.com/in/leo-raspaud/
 
 
