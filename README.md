@@ -27,8 +27,8 @@
 - [CSS-tricks - How to draw a circle using SVG](https://www.youtube.com/watch?v=qNMf1S9QKL0)
 - [CSS-tricks - How to add shadow on your text (and create a rainbow)](https://www.youtube.com/watch?v=kvEpp6tJY7Y&t=2s)
 - [CSS-tricks - How to animate a wheel (keyframes)](https://www.youtube.com/watch?v=iV9ImWf4KkU)
-- [NOFX - I believe in godess] (https://www.youtube.com/watch?v=piBeiQ-BcxU&feature=youtu.be)
-- [New found glory - My friends over you] (https://www.youtube.com/watch?v=QCSso8BtXDc)
+- [NOFX - I believe in godess](https://www.youtube.com/watch?v=piBeiQ-BcxU&feature=youtu.be)
+- [New found glory - My friends over you](https://www.youtube.com/watch?v=QCSso8BtXDc)
 - [Metallica - Dream no more - Guitar cover](https://www.youtube.com/watch?v=6r84Bg1BY9k)
 <!-- YOUTUBE:END -->
 
